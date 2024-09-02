@@ -1,4 +1,4 @@
-
+![image](https://github.com/RepelloMuggletum/React-calculator-app/blob/main/src/Result.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
